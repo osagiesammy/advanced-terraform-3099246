@@ -28,7 +28,7 @@ To resolve this issue:
 
 David Swersky 
                             
-DevOps and enterprise architect
+DevOps and enterprise architect.
 
                             
 
